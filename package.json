@@ -1,0 +1,22 @@
+{
+  "name": "test_meanstack_and_electron",
+  "version": "0.0.1",
+  "description": "test Meanstack",
+  "main": "nod_test.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "meanStack"
+  },
+  "keywords": [
+    "mean_test"
+  ],
+  "author": "Ritthirong Phoomanee",
+  "license": "ISC"
+}
